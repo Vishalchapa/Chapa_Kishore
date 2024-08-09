@@ -12,14 +12,14 @@ body {
 .footer {
     padding: 2rem 0;
     background-color: #343a40;
-    color: #ffffff;
+    color: #566575;
     font-size: 0.9rem;
 }
 
 .footer h5 {
     font-weight: 700;
     margin-bottom: 1rem;
-    color: #ffffff;
+    color: #566575;
 }
 
 .footer ul {
@@ -36,13 +36,13 @@ body {
 }
 
 .footer ul li a {
-    color: #ffffff;
+    color: #566575;
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
 .footer ul li a:hover {
-    color: #adb5bd;
+    color: #566575;
 }
 
 .social-icons {
@@ -56,20 +56,20 @@ body {
 }
 
 .social-icon {
-    color: #ffffff;
+    color: #566575;
     font-size: 1.5rem;
     transition: color 0.3s ease, transform 0.3s ease;
 }
 
 .social-icon:hover {
-    color: #adb5bd;
+    color: #566575;
     transform: scale(1.1);
 }
 
 .footer .text-center p {
     margin: 0;
     font-size: 0.8rem;
-    color: #adb5bd;
+    color: #566575;
 }
 
 /* Responsive design */
